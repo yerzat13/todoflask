@@ -1,11 +1,10 @@
-A simple ToDo list web application on Flask with the ability to add, edit and delete tasks.
-
+just simple todo projects 
 
 Functionality
-- Adding tasks
-- Editing tasks
-- Deleting tasks
-- Beautiful and simple design with Bootstrap
+- adding tasks
+- editing tasks
+- deleting tasks
+- design Bootstrap
 
 
 Project structure
